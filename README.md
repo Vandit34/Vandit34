@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandit34&label=Profile%20views&color=0e75b6&style=flat" alt="vandit34" /> </p>
 
-<p align="left"> <a href="https://x.com/vandit_js" target="blank"><img src="https://img.shields.io/twitter/follow/vandit2022?logo=twitter&style=for-the-badge" alt="vandit2022" /></a> </p>
+<p align="left"> <a href="https://x.com/vandit_js" target="blank"><img src="https://img.shields.io/twitter/follow/vandit2022?logo=twitter&style=for-the-badge" alt="vandit_js" /></a> </p>
 
 
 - 😄 My active social presence [Twitter Link](https://x.com/vandit_js)
