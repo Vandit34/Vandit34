@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/vandit2022" target="blank"><img src="https://img.shields.io/twitter/follow/vandit2022?logo=twitter&style=for-the-badge" alt="vandit2022" /></a> </p>
 
 
-- 😄 My active social presence [https://twitter.com/Vandit2022](https://twitter.com/Vandit2022)
+- 😄 My active social presence [Twitter Link](https://x.com/vandit_js)
 
-- 🏃🏻‍♂️ Know about my journey [https://www.linkedin.com/in/vandit-verma-221696226/](https://www.linkedin.com/in/vandit-verma-221696226/)
+- 🏃🏻‍♂️ Know about my journey [Linkedin Link](https://www.linkedin.com/in/vandit-verma-221696226/)
 
 - 🖌️Complementary Skill **Graphic Design**
 
