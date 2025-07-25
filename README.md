@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandit34&label=Profile%20views&color=0e75b6&style=flat" alt="vandit34" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vandit2022" target="blank"><img src="https://img.shields.io/twitter/follow/vandit2022?logo=twitter&style=for-the-badge" alt="vandit2022" /></a> </p>
+<p align="left"> <a href="https://x.com/vandit_js" target="blank"><img src="https://img.shields.io/twitter/follow/vandit2022?logo=twitter&style=for-the-badge" alt="vandit2022" /></a> </p>
 
 
 - 😄 My active social presence [Twitter Link](https://x.com/vandit_js)
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vandit34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vandit34" height="30" width="40" /></a>
-<a href="https://twitter.com/vandit2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vandit2022" height="30" width="40" /></a>
+<a href="https://x.com/vandit_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vandit2022" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vandit-verma-221696226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandit-verma-221696226" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17021813/vandit-34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17021813/vandit-34" height="30" width="40" /></a>
 
